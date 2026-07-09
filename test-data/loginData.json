@@ -1,0 +1,20 @@
+[
+  {
+    "testCaseId": "TC01",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "expected": "Pass"
+  },
+  {
+    "testCaseId": "TC02",
+    "username": "locked_out_user",
+    "password": "secret_sauce",
+    "expected": "Fail"
+  },
+  {
+    "testCaseId": "TC03",
+    "username": "problem_user",
+    "password": "secret_sauce",
+    "expected": "Pass"
+  }
+]

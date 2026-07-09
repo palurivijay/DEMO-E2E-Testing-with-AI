@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2410","TC01 - standard_user","chromium","2026-07-09","passed","2026-07-09","SauceDemo login automation","login.spec.ts","",""
+"","1215","TC02 - locked_out_user","chromium","2026-07-09","failed","2026-07-09","SauceDemo login automation","login.spec.ts","",""
+"","2744","TC03 - problem_user","chromium","2026-07-09","passed","2026-07-09","SauceDemo login automation","login.spec.ts","",""

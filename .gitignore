@@ -1,0 +1,12 @@
+node_modules/
+test-results/
+allure-results/
+allure-report/
+*.mp4
+*.mov
+*.avi
+*.mkv
+.DS_Store
+*.log
+.env
+.env.local
